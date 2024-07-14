@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy estudiante de 2do año de Ing. Informática e realizado 2 bootcamp de programacion los cuales me han permitido adquirir conocimientos tanto de FronEnd como BackEnd sumado a los conocimiento adquiridos como estudiante me permiten una vision mas profunda de la programación. Mi objetivo es poder ser un desarrollador fullstack senior poder comprender y ver diferentes areas del desarrollo de software
+
 #### Actualmente estoy aprendiendo en 
 - [Instituto profesional iplacex](https://www.iplacex.cl/campus-virtual/)
 
