@@ -52,3 +52,4 @@ Soy estudiante de 2do año de Ing. Informática e realizado 2 bootcamp de progra
 
 <a href="https://github.com/Yistler/SkatePark"><img src="https://github.com/Yistler/SkatePark/blob/main/public/img/skaters.png" style="height: 60%; width:60%;"/></a>
 
+API REST con Express y express-handlebars para poder mostrar y distribuir las vistas acorde a lo requerido. Implementación de tokenización y autenticación de usuarios con Json Web Token
