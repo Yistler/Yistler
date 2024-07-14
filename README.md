@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 👋 Hola mi nombre es Yistler Duran
+### Desarrollador full-stack web
+![https://github.com/Yistler](./code.jpg)
 <!--
 **Yistler/Yistler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Actualmente estoy aprendiendo en 
+- [Instituto profesional iplacex](https://www.iplacex.cl/campus-virtual/)
+#### Puedes encontrarme
+- [LinkedIn](www.linkedin.com/in/yokray-duran)
